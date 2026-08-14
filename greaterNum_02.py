@@ -12,4 +12,5 @@ def find_greatest(a,b,c):
         return "All numbers are equal"
     else:
         return c
+
 print(find_greatest(num1,num2,num3))
